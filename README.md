@@ -1,1 +1,1 @@
-# AWS-Solutions-Architect-Associate---ExampleCode
+# AWS-Solutions-Architect-Associate-ExampleCode
